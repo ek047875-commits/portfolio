@@ -1,0 +1,13 @@
+ESCALE - Landing page (Next.js 14 + Tailwind 3 + Framer Motion)
+
+LANCER LE SITE
+  Windows : double-cliquez sur LANCER.bat
+  Mac/Linux : ./lancer.sh
+  Manuellement (terminal VS Code, a la racine du dossier) :
+      npm install
+      npm run dev
+  Puis ouvrez http://localhost:3000
+
+Connexion internet requise : installation des paquets et polices Google.
+Arret du serveur : Ctrl + C dans le terminal.
+Verification avant mise en ligne : npm run build
